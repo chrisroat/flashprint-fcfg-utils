@@ -1,4 +1,4 @@
-# flashforge-fcfg-utils
+# flashprint-fcfg-utils
 
 Convert FlashPrint fcfg config files to/from JSON.
 
